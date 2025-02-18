@@ -32,5 +32,3 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
 ### 📫 ¡Conéctate conmigo!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin) 
 
----  
-⭐️ Basado en ideas de la comunidad de GitHub 🚀  
