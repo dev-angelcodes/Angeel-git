@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Angel  
 
-### 🚀 Desarrollador Java | 💡 Estudiante de DAM  
+### 🚀 Desarrollador Backend | 💡 Estudiante de DAM  
 
 
 ## 🌟 Sobre mí  
