@@ -29,6 +29,11 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
 ### 📈 GitHub Stats:  
 ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angeel-git&show_icons=true&theme=radical)  
 
+### 🛠 Proyectos en los que he trabajado:  
+- 🎮 **Proyecto Scape Room**  
+  Un proyecto en el que participé activamente en el trabajo inicial de otro desarrollador.  
+  📌 Repositorio: [Proyecto Scape Room](https://github.com/JacoboMovellan/ProyectoScapeRoom)  
+
 ### 📫 ¡Conéctate conmigo!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin) 
 
