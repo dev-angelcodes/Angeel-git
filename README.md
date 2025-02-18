@@ -2,7 +2,6 @@
 
 ### 🚀 Desarrollador Java | 💡 Estudiante de DAM  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,code,java)  
 
 ## 🌟 Sobre mí  
 Actualmente estoy cursando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me especializo en **Java**. También tengo experiencia en desarrollo web con **HTML** y **CSS**, y recientemente he comenzado a explorar **Python**.  
