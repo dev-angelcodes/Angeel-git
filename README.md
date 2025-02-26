@@ -2,7 +2,6 @@
 
 ### 🚀 Desarrollador Backend | 💡 Estudiante de DAM  
 
-
 ## 🌟 Sobre mí  
 Actualmente estoy cursando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me especializo en **Java**. También tengo experiencia en desarrollo web con **HTML** y **CSS**, y recientemente he comenzado a explorar **Python**.  
 
@@ -25,6 +24,7 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
 
 ### 📈 GitHub Stats:  
 ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angeel-git&show_icons=true&theme=radical)  
@@ -35,5 +35,4 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
   📌 Repositorio: [Proyecto Scape Room](https://github.com/JacoboMovellan/ProyectoScapeRoom)  
 
 ### 📫 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-fernandez-blanco-514951296/) 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-fernandez-blanco-514951296/)  
