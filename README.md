@@ -26,11 +26,17 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
 
-### 📈 GitHub Stats:  
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angeel-git&show_icons=true&theme=radical)  
+### 💻 Workspace:  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
+  ![NetBeans](https://img.shields.io/badge/-NetBeans%20IDE-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)  
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
 
-### 🧑‍💻 Lenguajes que más uso:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeel-git&langs_count=10&layout=compact&theme=radical)  
+### 📊 Estadísticas de GitHub  
+
+| ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angeel-git&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeel-git&langs_count=10&layout=compact&theme=radical) |
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ### 🛠 Proyectos en los que he trabajado:  
 - 🎮 **Proyecto Scape Room**  
