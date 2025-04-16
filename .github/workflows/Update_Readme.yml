@@ -1,0 +1,17 @@
+name: 🌀 Actualizar actividad reciente
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # cada hora
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.4
+
+      - name: Actualizar actividad
+        uses: JamesIves/github-activity-readme@v0.4.6
+        with:
+          MAX_LINES: 6
