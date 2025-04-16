@@ -38,6 +38,14 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
 | ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-angelcodes&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelcodes&langs_count=10&layout=compact&theme=radical) |
 |------------------------------------------------------------------|------------------------------------------------------------------|
 
+
+### :zap: Mi Actividad Reciente
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
+
 ### 🛠 Proyectos en los que he trabajado:  
 - 🎮 **Proyecto Scape Room**  
   Un proyecto en el que participé activamente en el trabajo inicial de otro desarrollador.  
