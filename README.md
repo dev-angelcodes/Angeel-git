@@ -39,13 +39,6 @@ En el ámbito de bases de datos, trabajo con **MySQL** utilizando **Hibernate** 
 |------------------------------------------------------------------|------------------------------------------------------------------|
 
 
-### :zap: Mi Actividad Reciente
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-
-
 ### 🛠 Proyectos en los que he trabajado:  
 - 🎮 **Proyecto Scape Room**  
   Un proyecto en el que participé activamente en el trabajo inicial de otro desarrollador.  
