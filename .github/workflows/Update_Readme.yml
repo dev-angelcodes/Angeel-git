@@ -1,17 +1,15 @@
-name: 🌀 Actualizar actividad reciente
+name: 🧠 Actualizar actividad reciente
 
 on:
   schedule:
-    - cron: '0 * * * *'  # cada hora
+    - cron: '0 */6 * * *'  # cada 6 horas
   workflow_dispatch:
 
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    name: 📝 Actualizando README
     steps:
-      - uses: actions/checkout@v2.3.4
-
-      - name: Actualizar actividad
-        uses: JamesIves/github-activity-readme@v0.4.6
+      - uses: Readme-Workflows/recent-activity@main
         with:
-          MAX_LINES: 6
+          GH_USERNAME: dev-angelcodes  
